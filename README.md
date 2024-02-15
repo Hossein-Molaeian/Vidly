@@ -5,7 +5,7 @@ Vidly is a simple video rental application built on Django, offering users the a
 ## Technologies Used
 
 - Python 3.12
-- Django 2.1
+- Django 4.1
 - Django REST API with Tastypie 0.14.6
 - HTML/CSS (Bootstrap)
 - SQLite
@@ -31,3 +31,5 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
+
+## Screenshots
