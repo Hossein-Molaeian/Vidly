@@ -33,3 +33,9 @@ python manage.py runserver
 ```
 
 ## Screenshots
+
+![(1)](https://github.com/Hossein-Molaeian/Vidly/assets/96408257/305cc8ae-e126-40ba-aef4-eea32c8fd32b)
+
+
+
+![(2)](https://github.com/Hossein-Molaeian/Vidly/assets/96408257/14fa0b9e-dc80-41e2-9954-a11c719ddd6d)
