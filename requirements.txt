@@ -1,7 +1,7 @@
 astroid==3.0.3
 colorama==0.4.6
 dill==0.3.8
-Django==2.1
+Django==4.1
 django-tastypie==0.14.6
 isort==5.13.2
 mccabe==0.7.0

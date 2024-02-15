@@ -20,19 +20,13 @@ You can follow these steps to run Vidly locally:
 git clone https://github.com/your-username/vidly.git
 ```
 
-2. Navigate to the project directory:
-
-```bash
-cd vidly
-```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Run the Django server:
+3. Run the Django server:
 
 ```bash
 python manage.py runserver
